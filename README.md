@@ -1,3 +1,16 @@
+# Rethinking Supervised Learning and Reinforcement Learning in Task-Oriented Dialogue Systems
+This is the codebase for paper: "Rethinking Supervised Learning and Reinforcement Learning in Task-Oriented Dialogue Systems".
+
+
+## Requirements
+
+python 3.6
+
+pytorch 1.0
+
+CPU
+
+
 ## Data
 
 unzip [zip](https://drive.google.com/file/d/1zds1y0ZwmJsIaTeBNKDLIQeRl6SK1Fes/view?usp=sharing) under `data` directory.
@@ -19,10 +32,15 @@ python -u main_seq.py $line_params
 replace $line_params with one line from file diaseq_emnlp_reproduce.
 
 
-## Requirements
+If you use the code for dialogue policy learning, feel free to cite our publication [Rethinking Supervised Learning and Reinforcement Learning in Task-Oriented Dialogue Systems](https://arxiv.org/):
+``` 
+@article{li2020rethink,
+  title={Rethinking Supervised Learning and Reinforcement Learning in Task-Oriented Dialogue Systems},
+  author={Li, Ziming and Kiseleva, Julia and de Rijke, Maarten},
+  journal={Findings of EMNLP 2020},
+  year={2020}
+}
 
-python 3.6
+```
 
-pytorch 1.0
 
-CPU
