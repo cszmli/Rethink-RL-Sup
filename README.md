@@ -44,3 +44,6 @@ If you use the code for dialogue policy learning, feel free to cite our publicat
 ```
 
 
+This code is based on the source code of Ryuichi's [GDPL work](https://github.com/truthless11/GDPL).
+
+
