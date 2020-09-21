@@ -1,0 +1,5 @@
+ --load model_seq/test/best --lr_rl 1e-4 --lr_irl 1e-4 --epoch 80 --gen_type beam --avg_type real_word --policy_clip 0.5 --activate_type no --cat_mlp True
+ --load model_seq/test/best --lr_rl 1e-4 --lr_irl 1e-4 --epoch 80 --gen_type beam --avg_type real_word --policy_clip 0.5 --activate_type no --cat_mlp True
+ --load model_seq/test/best --lr_rl 1e-4 --lr_irl 1e-4 --epoch 80 --gen_type beam --avg_type real_word --policy_clip 0.5 --activate_type no --cat_mlp True
+ --load model_seq/test/best --lr_rl 1e-4 --lr_irl 1e-4 --epoch 80 --gen_type beam --avg_type real_word --policy_clip 0.5 --activate_type no --cat_mlp True
+ --load model_seq/test/best --lr_rl 1e-4 --lr_irl 1e-4 --epoch 80 --gen_type beam --avg_type real_word --policy_clip 0.5 --activate_type no --cat_mlp True
