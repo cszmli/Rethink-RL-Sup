@@ -13,7 +13,7 @@ CPU
 
 ## Data
 
-unzip [zip](https://drive.google.com/file/d/1zds1y0ZwmJsIaTeBNKDLIQeRl6SK1Fes/view?usp=sharing) under `data` directory.
+unzip [file](https://drive.google.com/file/d/1HhVmWnwsm651n1sBUvGsx-PJ1yB-HhRG/view?usp=sharing) under `data` directory.
 
 There are two slightly different state trackers in this repository, tracker_new.py and tracker_old.py. The results in the paper is based on tracker_old.py. Just replace file tracker.py with the one that you want to use. 
 
