@@ -15,7 +15,7 @@ CPU
 
 unzip [file](https://drive.google.com/file/d/1HhVmWnwsm651n1sBUvGsx-PJ1yB-HhRG/view?usp=sharing) under `data` directory.
 
-There are two slightly different state trackers in this repository, tracker_new.py and tracker_old.py. The results in the paper is based on tracker_old.py. Just replace file tracker.py with the one that you want to use. 
+There are two slightly different state trackers in this repository, tracker_new.py and tracker_old.py. The result in the paper is based on tracker_old.py. Just replace file tracker.py with the one that you want to use. 
 
 ## DiaMultiDense and DiaAdv
 The params for DiaAdv can be found in file: diaadv_emnlp_reproduce. The first five lines are for DiaMultiDense while the left five lines are for DiaAdv. Other hyperparameters can be found in the file: utils.py 
